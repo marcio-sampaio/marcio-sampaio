@@ -1,4 +1,4 @@
-# Marcio Sampaio N. Santana
+# Marcio Sampaio N. SANTANA
 
 Founder and CEO of [Marcio.AI](https://marcio.ai), a brand of [Infoconsulting](https://infoconsulting.net).
 27 years in IT. I work on enterprise architecture, applied AI, AI governance and payments.
