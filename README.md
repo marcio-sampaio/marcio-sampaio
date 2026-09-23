@@ -16,4 +16,7 @@ Most of my work lives in private repositories.
 - Site: [marcio.ai](https://marcio.ai)
 - LinkedIn: [linkedin.com/in/marciosampaio](https://www.linkedin.com/in/marciosampaio)
 - YouTube: [@marcio-ai](https://www.youtube.com/@marcio-ai)
+- Medium: [@marcio.sampaio](https://medium.com/@marcio.sampaio)
+- Substack: [@marciosnsantana](https://substack.com/@marciosnsantana)
+- ORCID: [0009-0005-3789-6052](https://orcid.org/0009-0005-3789-6052)
 - Organization: [github.com/Marcio-AI](https://github.com/Marcio-AI)
